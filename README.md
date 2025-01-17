@@ -10,7 +10,7 @@
 <br><br> 
 
 ## 📫 Contact 📫
-- **Email**: [wkdgur456789@naver.com](mailto:wkdgur456789@naver.com)  
+- **Email**: [wkdgur456789@naver.com](mailto:wkdgur456789@gmail.com)  
 - **Tech Blog**: [janghyeok.tistory.com](https://janghyeok.tistory.com/)  
 
 

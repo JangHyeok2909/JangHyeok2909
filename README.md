@@ -12,7 +12,7 @@
 ## 📫 Contact 📫
 - **Email**: [wkdgur456789@naver.com](mailto:wkdgur456789@naver.com)  
 - **Tech Blog**: [janghyeok.tistory.com](https://janghyeok.tistory.com/)  
-- **Phone**: 010-2909-0166  
+
 
 <br><br> 
 

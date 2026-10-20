@@ -17,6 +17,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://janghyeok.tistory.com/rss"
+          # 티스토리 RSS는 기본값 application/rss+xml 요청에 406을 돌려주므로 text/xml 지정
+          accept_header: "text/xml"
           max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>$newline"
           date_format: "yyyy.mm.dd"

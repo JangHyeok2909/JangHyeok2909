@@ -21,5 +21,7 @@ jobs:
           accept_header: "text/xml"
           max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>$newline"
+          # 시작 표식 바로 뒤에 목록이 붙으면 그 줄 전체가 HTML 주석 블록으로 처리되어 첫 글이 링크로 렌더링되지 않으므로 줄바꿈 삽입
+          tag_post_pre_newline: true
           date_format: "yyyy.mm.dd"
           commit_message: "docs: 블로그 최근 글 목록 갱신"

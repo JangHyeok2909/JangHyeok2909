@@ -63,8 +63,7 @@ $ whoami
 
 ## Recent Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [요청당 쿼리수를 관측하여 N+1 파악과 해결](https://janghyeok.tistory.com/57) <sub>2026.10.15</sub>
+<!-- BLOG-POST-LIST:START -->- [요청당 쿼리수를 관측하여 N+1 파악과 해결](https://janghyeok.tistory.com/57) <sub>2026.10.15</sub>
 - [아키텍쳐 정리](https://janghyeok.tistory.com/54) <sub>2026.06.27</sub>
 - [Spring 정리](https://janghyeok.tistory.com/53) <sub>2026.06.27</sub>
 - [WEB 정리](https://janghyeok.tistory.com/52) <sub>2026.05.08</sub>

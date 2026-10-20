@@ -63,11 +63,13 @@ $ whoami
 
 ## Recent Posts
 
-<!-- BLOG-POST-LIST:START -->- [요청당 쿼리수를 관측하여 N+1 파악과 해결](https://janghyeok.tistory.com/57) <sub>2026.10.15</sub>
+<!-- BLOG-POST-LIST:START -->
+- [요청당 쿼리수를 관측하여 N+1 파악과 해결](https://janghyeok.tistory.com/57) <sub>2026.10.15</sub>
 - [아키텍쳐 정리](https://janghyeok.tistory.com/54) <sub>2026.06.27</sub>
 - [Spring 정리](https://janghyeok.tistory.com/53) <sub>2026.06.27</sub>
 - [WEB 정리](https://janghyeok.tistory.com/52) <sub>2026.05.08</sub>
 - [B+tree와 클러스터드 인덱스를 통한 데이터 탐색](https://janghyeok.tistory.com/51) <sub>2026.05.06</sub>
+
 <!-- BLOG-POST-LIST:END -->
 
 <sub>블로그 RSS를 매일 읽어 자동으로 갱신합니다.</sub>

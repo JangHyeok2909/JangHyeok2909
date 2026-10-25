@@ -35,7 +35,7 @@ $ whoami
 
 ## Open Source
 
-- **spring-boot-data-source-decorator** [#198](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator/pull/198) · 리뷰 중  
+- **spring-boot-data-source-decorator** [#198](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator/pull/198) · 머지됨 (2026.10.21) · [블로그 글](https://janghyeok.tistory.com/66)  
   라이브러리가 Spring Boot BOM을 사용하는 쪽에 전파해 의존성 버전을 바꾸던 문제 수정
 - **springdoc.github.io** [#108](https://github.com/springdoc/springdoc.github.io/pull/108) · 리뷰 중  
   v2 문서의 Spring Boot 호환 표 정리

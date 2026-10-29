@@ -22,10 +22,10 @@ $ whoami
 
 | 개선 | 전 | 후 |
 |---|---:|---:|
-| 댓글 목록 요청 1건당 SQL 수 | 1,507 | 3.9 |
+| 댓글 목록 요청당 평균 SQL 수 | 1,507 | 3.9 |
 | 같은 혼합 시나리오의 전체 p95 | 226.7ms | 34.3ms |
 
-<sub>단계마다 같은 조건으로 5회씩 실행한 관측값입니다. 측정 과정은 [사례 문서](https://github.com/JangHyeok2909/highteenday-backend/blob/main/performance/cases/comment-query-amplification.md)와 [블로그 글](https://janghyeok.tistory.com/57)에 있습니다.</sub>
+<sub>같은 데이터셋·부하로 단계마다 5회씩 실행한 평균입니다(로컬 측정). 측정 과정은 [사례 문서](https://github.com/JangHyeok2909/highteenday-backend/blob/main/performance/cases/comment-query-amplification.md)와 [블로그 글](https://janghyeok.tistory.com/57)에 있습니다.</sub>
 
 - 댓글·반응·스크랩을 트랜잭션 커밋 뒤 Redis Sorted Set 인기글 점수에 반영하고, 날짜별 키에 TTL 적용
 - 조회수 증가분을 Redis에 모아 60초마다 DB에 반영하고, 반영에 성공한 만큼만 차감해 실패분은 다음 주기에 재시도
@@ -37,7 +37,7 @@ $ whoami
 
 - **spring-boot-data-source-decorator** [#198](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator/pull/198) · 머지됨 (2026.10.21) · [블로그 글](https://janghyeok.tistory.com/66)  
   라이브러리가 Spring Boot BOM을 사용하는 쪽에 전파해 의존성 버전을 바꾸던 문제 수정
-- **springdoc.github.io** [#108](https://github.com/springdoc/springdoc.github.io/pull/108) · 리뷰 중  
+- **springdoc.github.io** [#108](https://github.com/springdoc/springdoc.github.io/pull/108) · 응답 대기  
   v2 문서의 Spring Boot 호환 표 정리
 
 ## Tech Stack

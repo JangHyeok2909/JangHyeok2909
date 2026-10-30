@@ -68,7 +68,7 @@ $ whoami
 - [LLM 기초 개념을 주제로 첫 테크세션을 이끌다](https://janghyeok.tistory.com/64) <sub>2026.10.22</sub>
 - [요청당 쿼리수를 관측하여 N+1 파악과 해결](https://janghyeok.tistory.com/57) <sub>2026.10.15</sub>
 - [LLM 서빙 용어 정리: vLLM, TTFT, Prefill과 Decode, KV 캐시, Thinking, 샘플링 파라미터](https://janghyeok.tistory.com/55) <sub>2026.09.27</sub>
-- [아키텍쳐 정리](https://janghyeok.tistory.com/54) <sub>2026.06.27</sub>
+- [아키텍처 정리](https://janghyeok.tistory.com/54) <sub>2026.06.27</sub>
 
 <!-- BLOG-POST-LIST:END -->
 

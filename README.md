@@ -66,9 +66,9 @@ $ whoami
 <!-- BLOG-POST-LIST:START -->
 - [라이브러리가 함께 배포한 Spring Boot BOM 때문에 앱이 뜨지 않던 문제: 오픈소스에 이슈를 올리고 PR이 머지되기까지](https://janghyeok.tistory.com/66) <sub>2026.10.25</sub>
 - [LLM 기초 개념을 주제로 첫 테크세션을 이끌다](https://janghyeok.tistory.com/64) <sub>2026.10.22</sub>
+- [외부 API 하나가 응답하지 않으면 서버 전체가 멈추는 이유와 막는 방법: 타임아웃 세 가지, 커넥션 풀, 서킷 브레이커](https://janghyeok.tistory.com/63) <sub>2026.10.17</sub>
+- [두 설정을 동시에 저장하면 반영이 빠지던 원인 추적: READ COMMITTED의 write skew와 행 잠금](https://janghyeok.tistory.com/58) <sub>2026.10.15</sub>
 - [요청당 쿼리수를 관측하여 N+1 파악과 해결](https://janghyeok.tistory.com/57) <sub>2026.10.15</sub>
-- [LLM 서빙 용어 정리: vLLM, TTFT, Prefill과 Decode, KV 캐시, Thinking, 샘플링 파라미터](https://janghyeok.tistory.com/55) <sub>2026.09.27</sub>
-- [아키텍처 정리](https://janghyeok.tistory.com/54) <sub>2026.06.27</sub>
 
 <!-- BLOG-POST-LIST:END -->
 

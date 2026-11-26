@@ -64,11 +64,11 @@ $ whoami
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MySQL과 PostgreSql로 알아보는 트랜잭션 동시성 이상현상](https://janghyeok.tistory.com/79) <sub>2026.11.25</sub>
 - [실무에서 만난 동시성 문제의 6가지 패턴](https://janghyeok.tistory.com/77) <sub>2026.11.23</sub>
-- [SELECT FOR UPDATE와 SELECT FOR SHARE는 언제 써야 할까? 공유락&amp;middot;배타락](https://janghyeok.tistory.com/71) <sub>2026.11.18</sub>
+- [낙관적 락과 비관적 락: 언제 무엇을 선택해야 할까?](https://janghyeok.tistory.com/73) <sub>2026.11.20</sub>
+- [공유락&amp;middot;배타락: SELECT FOR UPDATE와 SELECT FOR SHARE는 언제 써야 할까?](https://janghyeok.tistory.com/71) <sub>2026.11.18</sub>
 - [라이브러리가 함께 배포한 Spring Boot BOM 때문에 앱이 뜨지 않던 문제: 오픈소스에 이슈를 올리고 PR이 머지되기까지](https://janghyeok.tistory.com/66) <sub>2026.10.25</sub>
-- [LLM 기초 개념을 주제로 첫 테크세션을 이끌다](https://janghyeok.tistory.com/64) <sub>2026.10.22</sub>
-- [외부 API 장애가 앱 전체 지연으로 전파: 타임아웃, 커넥션 풀, 서킷 브레이커](https://janghyeok.tistory.com/63) <sub>2026.10.17</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
